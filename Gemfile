@@ -5,3 +5,4 @@ gemspec
 gem 'rspec'
 gem 'activesupport'
 gem 'rest-client'
+gem 'ruby_bitbankcc'
